@@ -18,7 +18,8 @@ by Google.
 
 ## How does it work
 
-...
+The user enters the amount spent at the restaurant, evaluates the service and sees how much tip it’s
+recommended to leave. The user can round up the received amount.
 
 ## Screenshots
 
@@ -43,8 +44,6 @@ by Google.
 ## Development progress
 
 Development of the project began on **September 4, 2021**. <!--and completed on **...**.-->
-
-...
 
 *Since I am developing this project mainly alone, I see no reason to
 use [Trello](https://trello.com/).*

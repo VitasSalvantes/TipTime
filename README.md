@@ -1,6 +1,6 @@
 # TipTime
 
-<!-- [![current version](https://img.shields.io/badge/current_version-1.0-green)](#TipTime) -->
+[![current version](https://img.shields.io/badge/current_version-1.0-green)](#TipTime)
 
 This is a simple tip calculator app for Android that was created as part of
 course [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
@@ -23,7 +23,7 @@ recommended to leave. The user can round up the received amount.
 
 ## Screenshots
 
-*All screenshots are relevant for version ...*
+*All screenshots are relevant for version 1.0*
 
 ...
 
@@ -43,7 +43,7 @@ recommended to leave. The user can round up the received amount.
 
 ## Development progress
 
-Development of the project began on **September 4, 2021**. <!--and completed on **...**.-->
+Development of the project began on **September 4, 2021** and completed on **September 9, 2021**.
 
 *Since I am developing this project mainly alone, I see no reason to
 use [Trello](https://trello.com/).*

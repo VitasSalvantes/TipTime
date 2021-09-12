@@ -25,7 +25,17 @@ recommended to leave. The user can round up the received amount.
 
 *All screenshots are relevant for version 1.0*
 
-...
+At the beginning:
+
+<img src="screenshots/screenshot_main.png" alt="screenshot_main" style="width:231px;height:500px;">
+
+After click on the "CALCULATE" button (with round up):
+
+<img src="screenshots/screenshot_input_round.png" alt="screenshot_input_round" style="width:231px;height:500px;">
+
+After click on the "CALCULATE" button (without round up):
+
+<img src="screenshots/screenshot_input_not_round.png" alt="screenshot_input_not_round" style="width:231px;height:500px;">
 
 ## Technologies
 
